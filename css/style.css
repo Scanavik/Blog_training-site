@@ -552,7 +552,7 @@ img {
 }
 
 .feedback-form {
-  background-image: url(../img/form-bg.jpg);
+  background-image: url(../img/Form-bg.jpg);
   -webkit-backdrop-filter: blur(8px);
   backdrop-filter: blur(8px);
   background-size: cover;
@@ -608,7 +608,7 @@ img {
 }
 
 .input-label {
-  font-family: 'Spectral SC', Times New Roman, serif;
+  font-family: 'Spectral SC', 'Times New Roman', serif;
   font-weight: bold;
   font-size: 18px;
   line-height: 28px;
