@@ -26,4 +26,5 @@
 - блок с комментариями (+комментарии добавляются при заполнении формы);
 - форма для написания комментария;
 - footer.
+
 ![Image alt](https://github.com/Scanavik/Blog_training-site/raw/main/img/readMe2.jpg)
