@@ -1,6 +1,8 @@
 Сайт блога о путешествиях (тренировочный)
 =====================
++
 ![Image alt](https://github.com/Scanavik/Blog_training-site/raw/main/img/readMe1.jpg)
++
 ### Структура сайта
 Сайт имеет 2 страницы:
 - главная;
