@@ -1,5 +1,6 @@
 Сайт блога о путешествиях (тренировочный)
 =====================
+![Image alt](https://github.com/Scanavik/Blog_training-site/raw/main/img/Anne-travel.jpg)
 ### Структура сайта
 Сайт имеет 2 страницы:
 - главная;
