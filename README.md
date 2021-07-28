@@ -1,6 +1,6 @@
 # Сайт блога о путешествиях (тренировочный)
 
-[смотреть сайт](http://scanavik.github.io/blog_training-site/)
+[Смотреть сайт](http://scanavik.github.io/blog_training-site/)
 ***
 ![Image alt](https://github.com/Scanavik/Blog_training-site/raw/main/img/readMe1.jpg)
 ***
